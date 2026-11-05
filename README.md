@@ -1,3 +1,8 @@
+> **foxnaim** · Программа командной строки для вывода данных о местоположении из CoreLocation
+>
+> Готовая основа под клиентский проект. Стек: Swift.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # CoreLocationCLI
 
 [![CI](https://github.com/fulldecent/corelocationcli/actions/workflows/ci.yml/badge.svg)](https://github.com/fulldecent/corelocationcli/actions/workflows/ci.yml) [![Lint](https://github.com/fulldecent/corelocationcli/actions/workflows/lint.yml/badge.svg)](https://github.com/fulldecent/corelocationcli/actions/workflows/lint.yml)
